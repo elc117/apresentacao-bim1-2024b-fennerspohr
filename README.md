@@ -38,14 +38,23 @@
 
 ### Referências
 https://www.dca.fee.unicamp.br/cursos/EA876/apostila/HTML/node37.html
+
 http://www.inf.ufsc.br/~j.barreto/cca/arquitet/arq4.htm
+
 https://blog.geekhunter.com.br/metodos-de-traducao-compiladores-ou-interpretadores/#O_que_e_interpretador_de_codigo
+
 https://cursos.alura.com.br/forum/topico-compilador-vs-interpretador-nas-linguagens-de-programacao-314787
+
 https://www.oficinadanet.com.br/artigo/1527/diferencas_entre_compiladores_e_interpretadores
+
 https://schoolcode.com.br/linguagens-compliladas-interpretadas-e-hibridas/
+
 https://terminalroot.com.br/2023/07/lista-dos-10-melhores-compiladores-c-cpp.html
+
 https://learn.microsoft.com/pt-br/visualstudio/python/installing-python-interpreters?view=vs-2022#review-python-interpreters
+
 https://eduardostuart.pro.br/artigos/node-dicas-intermediarias-parte-1-repl/index.html
+
 https://pt.wikipedia.org/wiki/REPL
 
 
